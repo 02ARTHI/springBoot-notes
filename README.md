@@ -6,7 +6,7 @@
 - **21. Merge Two Sorted Lists** - [LeetCode Link](https://leetcode.com/problems/merge-two-sorted-lists/)
 - **26. Remove Duplicates from Sorted Array** - [LeetCode Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - **83. Remove Duplicates from Sorted List** - [LeetCode Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
-- **88. Merge Sorted Array** - [LeetCode Link](https://leetcode.com/problems/merge-sorted-array/)
+- **88. Merge Sorted Array** - [LeetCode Link](https://leetcode.com/problems/merge-sorted-array/) 
 - **100. Same Tree** - [LeetCode Link](https://leetcode.com/problems/same-tree/)
 - **101. Symmetric Tree** - [LeetCode Link](https://leetcode.com/problems/symmetric-tree/)
 - **104. Maximum Depth of Binary Tree** - [LeetCode Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
