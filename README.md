@@ -74,7 +74,7 @@
 - **34. Find First and Last Position of Element in Sorted Array** - [LeetCode Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - **37. Sudoku Solver** - [LeetCode Link](https://leetcode.com/problems/sudoku-solver/)
 - **39. Combination Sum** - [LeetCode Link](https://leetcode.com/problems/combination-sum/)
-- **46. Permutations** - [LeetCode Link](https://leetcode.com/problems/permutations/)
+- **46. Permutations** - [LeetCode Link](https://leetcode.com/problems/permutations/) 
 - **48. Rotate Image** - [LeetCode Link](https://leetcode.com/problems/rotate-image/)
 - **49. Group Anagrams** - [LeetCode Link](https://leetcode.com/problems/group-anagrams/)
 - **50. Pow(x, n)** - [LeetCode Link](https://leetcode.com/problems/powx-n/)
