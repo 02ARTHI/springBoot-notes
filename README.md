@@ -10,7 +10,7 @@
 - **100. Same Tree** - [LeetCode Link](https://leetcode.com/problems/same-tree/)
 - **101. Symmetric Tree** - [LeetCode Link](https://leetcode.com/problems/symmetric-tree/)
 - **104. Maximum Depth of Binary Tree** - [LeetCode Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-- **112. Path Sum** - [LeetCode Link](https://leetcode.com/problems/path-sum/)
+- **112. Path Sum** - [LeetCode Link](https://leetcode.com/problems/path-sum/) 
 - **121. Best Time to Buy and Sell Stock** - [LeetCode Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - **136. Number of Days Between Two Dates** - [LeetCode Link](https://leetcode.com/problems/number-of-days-between-two-dates/)
 - **141. Linked List Cycle** - [LeetCode Link](https://leetcode.com/problems/linked-list-cycle/)
